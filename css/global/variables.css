@@ -1,0 +1,27 @@
+.container {
+  max-width: 1050px;
+  margin: 0 auto;
+}
+
+.btn-yellow {
+  background-color: #FFA62B;
+  border-radius: 37px;
+  color: #fff;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: .2px;
+  line-height: 28px;
+  padding: 10px 36px;
+}
+
+.btn-transparent {
+  color: #fff;
+  border: 1px solid #fff;
+  background-color: transparent;
+  border-radius: 37px;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: .2px;
+  line-height: 28px;
+  padding: 10px 36px;
+}
