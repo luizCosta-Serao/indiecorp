@@ -1,0 +1,14 @@
+/* REMOVE DO ESTILO PADRÃO DO BROWSER */
+@import './global/reset-padrao.css';
+
+/* ESTILO PADRÃO DOS TEXTOS*/
+@import './global/text.css';
+
+/* ESTILO PADRÃO DE CORES*/
+@import './global/colors.css';
+
+/* VARIÁVEIS */
+@import './global/variables.css';
+
+/* PÁGINA PRINCIPAL */
+@import './index.css';
